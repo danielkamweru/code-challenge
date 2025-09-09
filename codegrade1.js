@@ -1,7 +1,6 @@
 let marks = parseInt(prompt("Enter student marks (0 - 100):"));
 
     if (marks < 0 || marks > 100 || isNaN(marks)) {
-      alert("Invalid input! Marks should be between 0 and 100.");
     } else {
       let grade;
 
