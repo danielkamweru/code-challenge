@@ -1,0 +1,15 @@
+#result {
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+#btn {
+    padding: 1px ,5px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: aqua;
+}
+#marks {
+    padding: 5px;
+    font-size: 1em;
+background-color: lightyellow;
+}
