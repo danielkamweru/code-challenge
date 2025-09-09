@@ -10,9 +10,8 @@ function checkSpeed(speed){
         }
     }
 }
-let speed = Number(prompt("Enter car speed (km/h):"));
+let speed = Number(prompt("Enter vehicle speed (km/s):"));
 if (isNaN(speed) || speed < 0 ){
-alert("Please enter a valid speed.");
 }else {
     let result = checkSpeed(speed)
     alert(result);

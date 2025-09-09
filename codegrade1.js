@@ -17,7 +17,7 @@ let marks = parseInt(prompt("Enter student marks (0 - 100):"));
         grade = "E";
       }
 
-      alert("The grade is: " + grade);
+      alert("This is the grade : " + grade);
     }
 
 
